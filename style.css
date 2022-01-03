@@ -47,8 +47,9 @@ h2{
     background-repeat: no-repeat;
     padding-bottom: 150px;
     background-position: left;
-    
-
+}
+#exp-title{
+    padding: 5%;
 }
 .experience-items{
     width: 40%;
