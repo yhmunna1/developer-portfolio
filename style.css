@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 48px;
 }
+h2{
+    font-size: 36px;
+}
 .orange-color{
     color: orange;
 }
@@ -40,5 +43,18 @@ h1{
     margin-bottom: 70px;
 }
 .experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    padding-bottom: 150px;
+    background-position: left;
+    
 
+}
+.experience-items{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+    border-radius: 10px;
+    box-shadow: 5px 15px 25px gray;
 }
