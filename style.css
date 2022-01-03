@@ -30,4 +30,12 @@ section{
 .hero-section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 70px;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 70px;
+    margin-bottom: 70px;
 }
